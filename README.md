@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elizabetholson004
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
-- 📫 How to reach me: elizabetholson004@gmail.com
+- 📫 How to reach me: emily.olson_31@outlook.com
 - 😄 Pronouns: she/her
 
 <!---
